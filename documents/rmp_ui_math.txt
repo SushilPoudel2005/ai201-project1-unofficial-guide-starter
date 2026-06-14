@@ -1,0 +1,7 @@
+Source: Rate My Professors - University of Idaho Mathematics Department
+
+[Class: MATH 170 - Calculus I]
+The introductory math tracks at UI can be a shock if you aren't prepared for the pacing. Homework is entirely online and due every single Tuesday and Thursday night by midnight. Do not leave it until the last minute because the system locks down hard. The midterms are worth 60% of your total grade, so you absolutely have to utilize the Polya Math Center in the library for tutoring if you start falling behind.
+
+[Class: STAT 251 - Statistical Methods]
+For data science and math majors, STAT 251 is foundational. The course moves fast through probability chains, but the professor allows a double-sided handwritten cheat sheet for every exam. The best strategy is to write down the exact syntax examples from the lecture slides, as the exam questions use identical structures just with different numerical inputs.
